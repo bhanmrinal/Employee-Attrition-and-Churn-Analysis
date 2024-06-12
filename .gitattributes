@@ -1,4 +1,1 @@
-*.IPython Notebook linguist-detectable=false
-*.Jupyter Notebook linguist-detectable=false
-*.sql linguist-detectable=true
-*.python linguist-detectable=true
+src/Churn-Prediction/* linguist-vendored
