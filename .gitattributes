@@ -1,1 +1,1 @@
-src/Churn-Prediction/* linguist-vendored
+*.* linguist-language=sql
